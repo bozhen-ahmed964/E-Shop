@@ -13,7 +13,7 @@ class E_Shop extends StatelessWidget {
         title: "E-Shop",
         debugShowCheckedModeBanner: false,
         home: Scaffold(
-          backgroundColor: Colors.green.shade200,
+          backgroundColor: Colors.green.shade300,
         ));
   }
 }
